@@ -1,5 +1,5 @@
 # fast
-a simple c program to print even numbers starting from 2 to 9 lakhs\
+a simple c program to print prime numbers starting from 2 to 9 lakhs\
 <br></br>
 ##connect with me
 <p align="left">
